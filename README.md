@@ -1,17 +1,20 @@
-# 🟣 System Health Checker  
-A lightweight, fast, and readable Bash script that analyzes key system health metrics in real time.  
-Built for clarity, reliability, and hands-on Linux mastery.
+# 🟣 System Health Checker
+
+A clean, fast, and modular Bash script named **system_health.sh** that checks key system metrics and prints them in a readable, color‑coded format.  
+Designed for clarity, reliability, and hands‑on Linux mastery.
 
 ---
 
 ## 🔍 Features
-- CPU usage breakdown  
-- Memory usage summary  
+
+- CPU usage summary  
+- Memory usage breakdown  
 - Disk space analysis  
-- Top running processes  
 - System uptime  
+- Top running processes  
 - Color‑coded output for quick scanning  
-- Clean modular functions for easy expansion  
+- Modular functions for easy expansion  
+- Simple, readable structure recruiters love  
 
 ---
 
@@ -20,5 +23,5 @@ Built for clarity, reliability, and hands-on Linux mastery.
 Make the script executable:
 
 ```bash
-chmod +x system-health-checker.sh
+chmod +x system_health.sh
 
